@@ -16,6 +16,10 @@ I’m targeting **entry-level IT / support / junior sysadmin roles** where hands
   Focused on secure storage, CLI usability, and clean project structure.  
   👉 https://github.com/ayush-pokhrel/securepass-cli
 
+- 🔍 **LogAnalyzer CLI**
+  Python-based CLI tool for analyzing Linux auth logs and identifying potential security incidents.
+  👉 https://github.com/ayush-pokhrel/log-analyzer
+
 - 🌐 **Automation recon**  
   Automation recon tool for basic information gathering on IP addresses and websites.  
   Built to understand reconnaissance workflows and scripting for security tasks.  
